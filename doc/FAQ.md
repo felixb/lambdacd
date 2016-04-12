@@ -43,3 +43,5 @@ Most build pipeline monitors can read this format so you should be able to plug 
 Yes, you can run as many pipelines as you wish in one instance of LambdaCD. Just define a second one and initialize
 it just like the first one.
 
+## Are there any best prectices for structuring a pipeline?
+More details on how to keep pipelines readable and maintainable are presented in the [wiki](https://github.com/flosell/lambdacd/wiki/Guide:-Pipeline-Structure-Refactoring).
